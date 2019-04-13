@@ -1,0 +1,16 @@
+{
+  "main.css": "/test/static/css/main.8cbb8115.chunk.css",
+  "main.js": "/test/static/js/main.41f0a997.chunk.js",
+  "main.js.map": "/test/static/js/main.41f0a997.chunk.js.map",
+  "runtime~main.js": "/test/static/js/runtime~main.eded8796.js",
+  "runtime~main.js.map": "/test/static/js/runtime~main.eded8796.js.map",
+  "static/js/2.3a133501.chunk.js": "/test/static/js/2.3a133501.chunk.js",
+  "static/js/2.3a133501.chunk.js.map": "/test/static/js/2.3a133501.chunk.js.map",
+  "index.html": "/test/index.html",
+  "precache-manifest.d8e86763c04d75b3ed2aed1c14b5448b.js": "/test/precache-manifest.d8e86763c04d75b3ed2aed1c14b5448b.js",
+  "service-worker.js": "/test/service-worker.js",
+  "static/css/main.8cbb8115.chunk.css.map": "/test/static/css/main.8cbb8115.chunk.css.map",
+  "static/media/giphy.gif": "/test/static/media/giphy.7c320dcc.gif",
+  "static/media/ring_election.gif": "/test/static/media/ring_election.47e31e0c.gif",
+  "static/media/skcf.gif": "/test/static/media/skcf.2bc1a89b.gif"
+}
