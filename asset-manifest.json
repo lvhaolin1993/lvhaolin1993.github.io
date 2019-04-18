@@ -1,0 +1,19 @@
+{
+  "main.css": "/test/static/css/main.2a1f2d9c.chunk.css",
+  "main.js": "/test/static/js/main.8055e5af.chunk.js",
+  "main.js.map": "/test/static/js/main.8055e5af.chunk.js.map",
+  "runtime~main.js": "/test/static/js/runtime~main.eded8796.js",
+  "runtime~main.js.map": "/test/static/js/runtime~main.eded8796.js.map",
+  "static/js/2.8e9b8d86.chunk.js": "/test/static/js/2.8e9b8d86.chunk.js",
+  "static/js/2.8e9b8d86.chunk.js.map": "/test/static/js/2.8e9b8d86.chunk.js.map",
+  "index.html": "/test/index.html",
+  "precache-manifest.d6d38f9ef754f5b5807760b4370ad829.js": "/test/precache-manifest.d6d38f9ef754f5b5807760b4370ad829.js",
+  "service-worker.js": "/test/service-worker.js",
+  "static/css/main.2a1f2d9c.chunk.css.map": "/test/static/css/main.2a1f2d9c.chunk.css.map",
+  "static/media/giphy.gif": "/test/static/media/giphy.7c320dcc.gif",
+  "static/media/ring_election.gif": "/test/static/media/ring_election.47e31e0c.gif",
+  "static/media/skcf.gif": "/test/static/media/skcf.2bc1a89b.gif",
+  "static/media/steam1.png": "/test/static/media/steam1.42aa6b34.png",
+  "static/media/steam2.png": "/test/static/media/steam2.2bbfc17e.png",
+  "static/media/steam3.png": "/test/static/media/steam3.65827568.png"
+}
